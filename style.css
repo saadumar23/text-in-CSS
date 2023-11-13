@@ -1,0 +1,189 @@
+/* FONT FAMILY */
+/* body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family: cursive;
+} */
+
+/* FONT SIZE */
+/* PIXELS */
+/* h1{
+    font-size: 50px;
+} */
+
+/* PERCENTAGE */
+/* p{
+    font-size: 500%;
+} */
+
+/* EM */
+/* p{
+    font-size: 5em;
+} */
+
+/* FONT FACE */
+/*  @font-face {
+    font-family: bold;
+    src: url(./fonts/TiltPrism-Regular.ttf);
+}
+h1{
+    font-family: bold;
+} */
+
+/* FONT-WEIGHT */
+/* p{
+    font-weight: bolder;
+} */
+
+/* FONT STYLE */
+/* #i{
+    font-style: italic;
+}
+#o{
+    font-style: oblique;
+} */
+
+/* TEXT TRANSFORM */
+/* p{
+    text-transform: lowercase;
+} */
+/* p{
+    text-transform: uppercase;
+} */
+/* p{
+    text-transform:capitalize ;
+} */
+
+/* TEXT DECORATION */
+/* h1{
+    text-decoration: underline;
+} */
+/* h1{
+    text-decoration: overline;
+} */
+/* h1{
+    text-decoration: line-through;
+} */
+
+/* LINE HEIGHT */
+/* p{
+    line-height: 50px;
+} */
+
+/* LETTER AND WORD SPACING */
+/* #l{
+    letter-spacing: 20px;
+} */
+/* #w{
+    word-spacing: 50px;
+} */
+
+/* TEXT ALIGNMENT */
+/* h1{
+    text-align: center;
+} */
+/* h1{
+    text-align: end;
+} */
+/* h1{
+    text-align: right;
+} */
+
+/* TEXT JUSTIFY */
+/* p{
+    text-align: justify;
+} */
+
+/* VWETICAL ALIGNMENT */
+/* img{
+    vertical-align: baseline;
+} */
+/* img{
+    vertical-align: middle;
+} */
+/* img{
+    vertical-align: top;
+} */
+
+/* TEXT INDENT */
+/* p{
+    text-indent: 50px;
+} */
+
+/* TEXT SHADOW */
+/* p{
+    color: #666666;
+    background-color: gray;
+    text-shadow: 1px 1px 0px red;
+} */
+
+/* FIRST LETTER AND FIRST LINE */
+/* p::first-letter{
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: wheat;
+    
+} */
+/* p::first-line{
+    color: red;
+    background-color: wheat;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} */
+
+/* STYLING LINKS */
+/* a:link{
+    color: green;
+} */
+/* a:visited{
+    color: red;
+} */
+
+/* RESPONDING USER */
+/* input.r:hover{
+    color: green;
+    background-color: aqua;
+} */
+
+/* input.n:active{
+    color: blue;
+    background-color: wheat;
+} */
+
+/* input.r:focus{
+    background-color: wheat;
+} */
+
+/* ATTRIBUTE SELECTOR */
+/* EXISTANCE */
+/* h1[name]{
+    color: red;
+} */
+
+/* EQUALITY */
+/* h1[name="bye"]{
+    color: blue;
+} */
+
+/* SPACE */
+/* h1[name~="world"]{
+    background-color: wheat;
+    color: blue
+} */
+
+/* PREFIX */
+/* h1[name^="b"]{
+    color: red;
+} */
+
+/* SUBSTRING */
+/* h1[name*="el"]{
+    background-color: blue;
+    color: green;
+} */
+
+/* SUFFIX */
+/* h1[name$="l"]{
+    color: red;
+} */
